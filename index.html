@@ -137,12 +137,17 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; max-width:
 .q-group h3 { font-size: 1rem; margin: 1.6rem 0 0.4rem; color: var(--muted); }
 .q-list { list-style: none; padding: 0; margin: 0; counter-reset: q; }
 .q { counter-increment: q; border-bottom: 1px solid var(--line); }
-.q summary { cursor: pointer; padding: 12px 0; display: flex; gap: 10px; list-style: none; font-weight: 500; }
+/* summary без flex: в части мобильных браузеров (WebKit) summary с display:flex не раскрывается по нажатию */
+.q summary { cursor: pointer; padding: 12px 1.6rem 12px 2.2rem; position: relative; display: block; list-style: none; font-weight: 500; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .q summary::-webkit-details-marker { display: none; }
-.q summary::before { content: counter(q); font-family: var(--font-mono); font-size: 0.8rem; color: var(--accent); min-width: 1.6rem; padding-top: 3px; font-variant-numeric: tabular-nums; }
+.q summary::marker { content: ""; }
+.q summary::before { content: counter(q); position: absolute; left: 0; top: 15px; font-family: var(--font-mono); font-size: 0.8rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+.q summary::after { content: "+"; position: absolute; right: 4px; top: 10px; font-size: 1.2rem; color: var(--muted); }
+.q details[open] > summary::after { content: "−"; }
+.q summary mjx-container { pointer-events: none; }
 .q .ans { padding: 0 0 12px 2.2rem; color: var(--fg); }
 .q .ans p { margin: 0 0 0.5rem; }
-.q[open] summary { color: var(--accent); }
+.q details[open] > summary { color: var(--accent); }
 .top-link { display: inline-block; margin-top: 2rem; color: var(--accent); }
 </style>
 
