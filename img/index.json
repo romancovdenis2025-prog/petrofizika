@@ -1,0 +1,3578 @@
+{
+ "tab-1-1": {
+  "key": "tab-1-1",
+  "page": 29,
+  "mode": "crop",
+  "file": "img/tab-1-1.jpg",
+  "w": 792,
+  "h": 479
+ },
+ "tab-1-2": {
+  "key": "tab-1-2",
+  "page": 29,
+  "mode": "crop",
+  "file": "img/tab-1-2.jpg",
+  "w": 792,
+  "h": 336
+ },
+ "tab-1-3": {
+  "key": "tab-1-3",
+  "page": 30,
+  "mode": "crop",
+  "file": "img/tab-1-3.jpg",
+  "w": 770,
+  "h": 1252
+ },
+ "tab-1-4": {
+  "key": "tab-1-4",
+  "page": 31,
+  "mode": "page",
+  "file": "img/tab-1-4.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-1-2": {
+  "key": "fig-1-2",
+  "page": 38,
+  "mode": "crop",
+  "file": "img/fig-1-2.jpg",
+  "w": 794,
+  "h": 401
+ },
+ "tab-1-5": {
+  "key": "tab-1-5",
+  "page": 40,
+  "mode": "page",
+  "file": "img/tab-1-5.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "tab-1-6": {
+  "key": "tab-1-6",
+  "page": 41,
+  "mode": "page",
+  "file": "img/tab-1-6.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "tab-1-7": {
+  "key": "tab-1-7",
+  "page": 42,
+  "mode": "crop",
+  "file": "img/tab-1-7.jpg",
+  "w": 793,
+  "h": 735
+ },
+ "fig-1-3": {
+  "key": "fig-1-3",
+  "page": 44,
+  "mode": "crop",
+  "file": "img/fig-1-3.jpg",
+  "w": 794,
+  "h": 471
+ },
+ "fig-1-4": {
+  "key": "fig-1-4",
+  "page": 45,
+  "mode": "crop",
+  "file": "img/fig-1-4.jpg",
+  "w": 792,
+  "h": 466
+ },
+ "fig-2-1": {
+  "key": "fig-2-1",
+  "page": 55,
+  "mode": "crop",
+  "file": "img/fig-2-1.jpg",
+  "w": 793,
+  "h": 370
+ },
+ "tab-2-1": {
+  "key": "tab-2-1",
+  "page": 59,
+  "mode": "crop",
+  "file": "img/tab-2-1.jpg",
+  "w": 779,
+  "h": 1190
+ },
+ "tab-2-2": {
+  "key": "tab-2-2",
+  "page": 60,
+  "mode": "crop",
+  "file": "img/tab-2-2.jpg",
+  "w": 793,
+  "h": 321
+ },
+ "fig-2-2": {
+  "key": "fig-2-2",
+  "page": 65,
+  "mode": "crop",
+  "file": "img/fig-2-2.jpg",
+  "w": 791,
+  "h": 521
+ },
+ "fig-2-3": {
+  "key": "fig-2-3",
+  "page": 66,
+  "mode": "crop",
+  "file": "img/fig-2-3.jpg",
+  "w": 796,
+  "h": 442
+ },
+ "fig-2-4": {
+  "key": "fig-2-4",
+  "page": 66,
+  "mode": "crop",
+  "file": "img/fig-2-4.jpg",
+  "w": 796,
+  "h": 590
+ },
+ "fig-2-5": {
+  "key": "fig-2-5",
+  "page": 67,
+  "mode": "crop",
+  "file": "img/fig-2-5.jpg",
+  "w": 791,
+  "h": 481
+ },
+ "fig-2-6": {
+  "key": "fig-2-6",
+  "page": 68,
+  "mode": "crop",
+  "file": "img/fig-2-6.jpg",
+  "w": 793,
+  "h": 549
+ },
+ "fig-2-7": {
+  "key": "fig-2-7",
+  "page": 69,
+  "mode": "crop",
+  "file": "img/fig-2-7.jpg",
+  "w": 792,
+  "h": 360
+ },
+ "fig-2-8": {
+  "key": "fig-2-8",
+  "page": 73,
+  "mode": "crop",
+  "file": "img/fig-2-8.jpg",
+  "w": 792,
+  "h": 645
+ },
+ "fig-2-9": {
+  "key": "fig-2-9",
+  "page": 74,
+  "mode": "crop",
+  "file": "img/fig-2-9.jpg",
+  "w": 796,
+  "h": 441
+ },
+ "fig-2-10": {
+  "key": "fig-2-10",
+  "page": 77,
+  "mode": "crop",
+  "file": "img/fig-2-10.jpg",
+  "w": 791,
+  "h": 448
+ },
+ "fig-2-11": {
+  "key": "fig-2-11",
+  "page": 79,
+  "mode": "crop",
+  "file": "img/fig-2-11.jpg",
+  "w": 792,
+  "h": 586
+ },
+ "fig-2-12": {
+  "key": "fig-2-12",
+  "page": 80,
+  "mode": "crop",
+  "file": "img/fig-2-12.jpg",
+  "w": 792,
+  "h": 561
+ },
+ "tab-2-3": {
+  "key": "tab-2-3",
+  "page": 82,
+  "mode": "crop",
+  "file": "img/tab-2-3.jpg",
+  "w": 791,
+  "h": 536
+ },
+ "fig-2-13": {
+  "key": "fig-2-13",
+  "page": 84,
+  "mode": "crop",
+  "file": "img/fig-2-13.jpg",
+  "w": 741,
+  "h": 497
+ },
+ "fig-2-14": {
+  "key": "fig-2-14",
+  "page": 86,
+  "mode": "crop",
+  "file": "img/fig-2-14.jpg",
+  "w": 754,
+  "h": 633
+ },
+ "fig-2-15": {
+  "key": "fig-2-15",
+  "page": 87,
+  "mode": "crop",
+  "file": "img/fig-2-15.jpg",
+  "w": 793,
+  "h": 407
+ },
+ "tab-2-4": {
+  "key": "tab-2-4",
+  "page": 87,
+  "mode": "page",
+  "file": "img/tab-2-4.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "fig-2-16": {
+  "key": "fig-2-16",
+  "page": 90,
+  "mode": "crop",
+  "file": "img/fig-2-16.jpg",
+  "w": 793,
+  "h": 901
+ },
+ "fig-2-17": {
+  "key": "fig-2-17",
+  "page": 92,
+  "mode": "crop",
+  "file": "img/fig-2-17.jpg",
+  "w": 791,
+  "h": 710
+ },
+ "fig-2-18": {
+  "key": "fig-2-18",
+  "page": 93,
+  "mode": "crop",
+  "file": "img/fig-2-18.jpg",
+  "w": 793,
+  "h": 709
+ },
+ "tab-2-6": {
+  "key": "tab-2-6",
+  "page": 94,
+  "mode": "crop",
+  "file": "img/tab-2-6.jpg",
+  "w": 792,
+  "h": 421
+ },
+ "tab-2-7": {
+  "key": "tab-2-7",
+  "page": 94,
+  "mode": "crop",
+  "file": "img/tab-2-7.jpg",
+  "w": 792,
+  "h": 626
+ },
+ "tab-2-8": {
+  "key": "tab-2-8",
+  "page": 95,
+  "mode": "crop",
+  "file": "img/tab-2-8.jpg",
+  "w": 792,
+  "h": 1027
+ },
+ "fig-2-19": {
+  "key": "fig-2-19",
+  "page": 96,
+  "mode": "crop",
+  "file": "img/fig-2-19.jpg",
+  "w": 792,
+  "h": 504
+ },
+ "tab-2-9": {
+  "key": "tab-2-9",
+  "page": 96,
+  "mode": "page",
+  "file": "img/tab-2-9.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "tab-2-10": {
+  "key": "tab-2-10",
+  "page": 98,
+  "mode": "page",
+  "file": "img/tab-2-10.jpg",
+  "w": 785,
+  "h": 1394
+ },
+ "fig-2-20": {
+  "key": "fig-2-20",
+  "page": 99,
+  "mode": "page",
+  "file": "img/fig-2-20.jpg",
+  "w": 768,
+  "h": 1394
+ },
+ "fig-2-21": {
+  "key": "fig-2-21",
+  "page": 100,
+  "mode": "page",
+  "file": "img/fig-2-21.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-2-22": {
+  "key": "fig-2-22",
+  "page": 100,
+  "mode": "crop",
+  "file": "img/fig-2-22.jpg",
+  "w": 792,
+  "h": 535
+ },
+ "fig-2-23": {
+  "key": "fig-2-23",
+  "page": 102,
+  "mode": "crop",
+  "file": "img/fig-2-23.jpg",
+  "w": 788,
+  "h": 485
+ },
+ "fig-2-24": {
+  "key": "fig-2-24",
+  "page": 102,
+  "mode": "crop",
+  "file": "img/fig-2-24.jpg",
+  "w": 788,
+  "h": 673
+ },
+ "fig-2-25": {
+  "key": "fig-2-25",
+  "page": 103,
+  "mode": "crop",
+  "file": "img/fig-2-25.jpg",
+  "w": 786,
+  "h": 564
+ },
+ "fig-2-26": {
+  "key": "fig-2-26",
+  "page": 103,
+  "mode": "crop",
+  "file": "img/fig-2-26.jpg",
+  "w": 786,
+  "h": 635
+ },
+ "fig-2-27": {
+  "key": "fig-2-27",
+  "page": 105,
+  "mode": "crop",
+  "file": "img/fig-2-27.jpg",
+  "w": 739,
+  "h": 399
+ },
+ "fig-3-1": {
+  "key": "fig-3-1",
+  "page": 111,
+  "mode": "crop",
+  "file": "img/fig-3-1.jpg",
+  "w": 793,
+  "h": 422
+ },
+ "fig-3-2": {
+  "key": "fig-3-2",
+  "page": 113,
+  "mode": "crop",
+  "file": "img/fig-3-2.jpg",
+  "w": 793,
+  "h": 296
+ },
+ "fig-3-3": {
+  "key": "fig-3-3",
+  "page": 116,
+  "mode": "page",
+  "file": "img/fig-3-3.jpg",
+  "w": 720,
+  "h": 1394
+ },
+ "fig-3-4": {
+  "key": "fig-3-4",
+  "page": 116,
+  "mode": "crop",
+  "file": "img/fig-3-4.jpg",
+  "w": 720,
+  "h": 564
+ },
+ "fig-3-5": {
+  "key": "fig-3-5",
+  "page": 117,
+  "mode": "crop",
+  "file": "img/fig-3-5.jpg",
+  "w": 792,
+  "h": 516
+ },
+ "fig-3-6": {
+  "key": "fig-3-6",
+  "page": 122,
+  "mode": "page",
+  "file": "img/fig-3-6.jpg",
+  "w": 791,
+  "h": 1394
+ },
+ "tab-3-1": {
+  "key": "tab-3-1",
+  "page": 123,
+  "mode": "crop",
+  "file": "img/tab-3-1.jpg",
+  "w": 790,
+  "h": 634
+ },
+ "fig-3-7": {
+  "key": "fig-3-7",
+  "page": 123,
+  "mode": "crop",
+  "file": "img/fig-3-7.jpg",
+  "w": 790,
+  "h": 376
+ },
+ "fig-3-8": {
+  "key": "fig-3-8",
+  "page": 124,
+  "mode": "crop",
+  "file": "img/fig-3-8.jpg",
+  "w": 791,
+  "h": 376
+ },
+ "fig-3-9": {
+  "key": "fig-3-9",
+  "page": 124,
+  "mode": "crop",
+  "file": "img/fig-3-9.jpg",
+  "w": 791,
+  "h": 430
+ },
+ "fig-3-10": {
+  "key": "fig-3-10",
+  "page": 125,
+  "mode": "crop",
+  "file": "img/fig-3-10.jpg",
+  "w": 792,
+  "h": 419
+ },
+ "fig-3-11": {
+  "key": "fig-3-11",
+  "page": 126,
+  "mode": "crop",
+  "file": "img/fig-3-11.jpg",
+  "w": 791,
+  "h": 447
+ },
+ "fig-3-12": {
+  "key": "fig-3-12",
+  "page": 127,
+  "mode": "crop",
+  "file": "img/fig-3-12.jpg",
+  "w": 783,
+  "h": 554
+ },
+ "fig-3-13": {
+  "key": "fig-3-13",
+  "page": 127,
+  "mode": "crop",
+  "file": "img/fig-3-13.jpg",
+  "w": 783,
+  "h": 474
+ },
+ "fig-3-14": {
+  "key": "fig-3-14",
+  "page": 133,
+  "mode": "crop",
+  "file": "img/fig-3-14.jpg",
+  "w": 791,
+  "h": 463
+ },
+ "fig-3-15": {
+  "key": "fig-3-15",
+  "page": 134,
+  "mode": "crop",
+  "file": "img/fig-3-15.jpg",
+  "w": 792,
+  "h": 517
+ },
+ "tab-3-2": {
+  "key": "tab-3-2",
+  "page": 136,
+  "mode": "crop",
+  "file": "img/tab-3-2.jpg",
+  "w": 796,
+  "h": 327
+ },
+ "fig-3-16": {
+  "key": "fig-3-16",
+  "page": 137,
+  "mode": "crop",
+  "file": "img/fig-3-16.jpg",
+  "w": 789,
+  "h": 442
+ },
+ "fig-3-17": {
+  "key": "fig-3-17",
+  "page": 137,
+  "mode": "crop",
+  "file": "img/fig-3-17.jpg",
+  "w": 789,
+  "h": 432
+ },
+ "fig-3-18": {
+  "key": "fig-3-18",
+  "page": 138,
+  "mode": "crop",
+  "file": "img/fig-3-18.jpg",
+  "w": 794,
+  "h": 486
+ },
+ "tab-3-3": {
+  "key": "tab-3-3",
+  "page": 139,
+  "mode": "page",
+  "file": "img/tab-3-3.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "fig-3-19": {
+  "key": "fig-3-19",
+  "page": 140,
+  "mode": "page",
+  "file": "img/fig-3-19.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-3-20": {
+  "key": "fig-3-20",
+  "page": 140,
+  "mode": "page",
+  "file": "img/fig-3-20.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-3-21": {
+  "key": "fig-3-21",
+  "page": 146,
+  "mode": "page",
+  "file": "img/fig-3-21.jpg",
+  "w": 780,
+  "h": 1394
+ },
+ "tab-3-4": {
+  "key": "tab-3-4",
+  "page": 148,
+  "mode": "crop",
+  "file": "img/tab-3-4.jpg",
+  "w": 790,
+  "h": 261
+ },
+ "tab-3-5": {
+  "key": "tab-3-5",
+  "page": 149,
+  "mode": "crop",
+  "file": "img/tab-3-5.jpg",
+  "w": 792,
+  "h": 442
+ },
+ "fig-3-22": {
+  "key": "fig-3-22",
+  "page": 150,
+  "mode": "crop",
+  "file": "img/fig-3-22.jpg",
+  "w": 790,
+  "h": 493
+ },
+ "fig-3-23": {
+  "key": "fig-3-23",
+  "page": 151,
+  "mode": "crop",
+  "file": "img/fig-3-23.jpg",
+  "w": 793,
+  "h": 456
+ },
+ "fig-3-24": {
+  "key": "fig-3-24",
+  "page": 151,
+  "mode": "crop",
+  "file": "img/fig-3-24.jpg",
+  "w": 793,
+  "h": 476
+ },
+ "fig-3-25": {
+  "key": "fig-3-25",
+  "page": 154,
+  "mode": "page",
+  "file": "img/fig-3-25.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "fig-3-26": {
+  "key": "fig-3-26",
+  "page": 155,
+  "mode": "crop",
+  "file": "img/fig-3-26.jpg",
+  "w": 794,
+  "h": 822
+ },
+ "fig-3-27": {
+  "key": "fig-3-27",
+  "page": 156,
+  "mode": "crop",
+  "file": "img/fig-3-27.jpg",
+  "w": 784,
+  "h": 1241
+ },
+ "fig-3-28": {
+  "key": "fig-3-28",
+  "page": 158,
+  "mode": "crop",
+  "file": "img/fig-3-28.jpg",
+  "w": 794,
+  "h": 522
+ },
+ "fig-3-29": {
+  "key": "fig-3-29",
+  "page": 160,
+  "mode": "crop",
+  "file": "img/fig-3-29.jpg",
+  "w": 793,
+  "h": 392
+ },
+ "fig-3-31": {
+  "key": "fig-3-31",
+  "page": 163,
+  "mode": "crop",
+  "file": "img/fig-3-31.jpg",
+  "w": 789,
+  "h": 575
+ },
+ "fig-3-32": {
+  "key": "fig-3-32",
+  "page": 164,
+  "mode": "crop",
+  "file": "img/fig-3-32.jpg",
+  "w": 793,
+  "h": 368
+ },
+ "fig-3-33": {
+  "key": "fig-3-33",
+  "page": 165,
+  "mode": "crop",
+  "file": "img/fig-3-33.jpg",
+  "w": 790,
+  "h": 423
+ },
+ "fig-3-34": {
+  "key": "fig-3-34",
+  "page": 168,
+  "mode": "page",
+  "file": "img/fig-3-34.jpg",
+  "w": 786,
+  "h": 1394
+ },
+ "fig-3-35": {
+  "key": "fig-3-35",
+  "page": 168,
+  "mode": "crop",
+  "file": "img/fig-3-35.jpg",
+  "w": 786,
+  "h": 580
+ },
+ "fig-3-36": {
+  "key": "fig-3-36",
+  "page": 169,
+  "mode": "crop",
+  "file": "img/fig-3-36.jpg",
+  "w": 793,
+  "h": 532
+ },
+ "fig-3-37": {
+  "key": "fig-3-37",
+  "page": 169,
+  "mode": "crop",
+  "file": "img/fig-3-37.jpg",
+  "w": 793,
+  "h": 624
+ },
+ "fig-3-38": {
+  "key": "fig-3-38",
+  "page": 171,
+  "mode": "crop",
+  "file": "img/fig-3-38.jpg",
+  "w": 791,
+  "h": 428
+ },
+ "fig-3-39": {
+  "key": "fig-3-39",
+  "page": 172,
+  "mode": "crop",
+  "file": "img/fig-3-39.jpg",
+  "w": 772,
+  "h": 526
+ },
+ "fig-3-40": {
+  "key": "fig-3-40",
+  "page": 172,
+  "mode": "crop",
+  "file": "img/fig-3-40.jpg",
+  "w": 772,
+  "h": 649
+ },
+ "fig-3-41": {
+  "key": "fig-3-41",
+  "page": 174,
+  "mode": "crop",
+  "file": "img/fig-3-41.jpg",
+  "w": 753,
+  "h": 558
+ },
+ "fig-3-42": {
+  "key": "fig-3-42",
+  "page": 174,
+  "mode": "crop",
+  "file": "img/fig-3-42.jpg",
+  "w": 753,
+  "h": 581
+ },
+ "fig-3-43": {
+  "key": "fig-3-43",
+  "page": 176,
+  "mode": "crop",
+  "file": "img/fig-3-43.jpg",
+  "w": 789,
+  "h": 765
+ },
+ "tab-3-6": {
+  "key": "tab-3-6",
+  "page": 178,
+  "mode": "page",
+  "file": "img/tab-3-6.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-3-44": {
+  "key": "fig-3-44",
+  "page": 180,
+  "mode": "crop",
+  "file": "img/fig-3-44.jpg",
+  "w": 793,
+  "h": 577
+ },
+ "fig-3-45": {
+  "key": "fig-3-45",
+  "page": 182,
+  "mode": "crop",
+  "file": "img/fig-3-45.jpg",
+  "w": 725,
+  "h": 560
+ },
+ "fig-3-46": {
+  "key": "fig-3-46",
+  "page": 182,
+  "mode": "crop",
+  "file": "img/fig-3-46.jpg",
+  "w": 725,
+  "h": 604
+ },
+ "fig-3-47": {
+  "key": "fig-3-47",
+  "page": 185,
+  "mode": "crop",
+  "file": "img/fig-3-47.jpg",
+  "w": 793,
+  "h": 422
+ },
+ "tab-3-7": {
+  "key": "tab-3-7",
+  "page": 187,
+  "mode": "crop",
+  "file": "img/tab-3-7.jpg",
+  "w": 792,
+  "h": 464
+ },
+ "tab-3-8": {
+  "key": "tab-3-8",
+  "page": 188,
+  "mode": "crop",
+  "file": "img/tab-3-8.jpg",
+  "w": 790,
+  "h": 499
+ },
+ "tab-3-9": {
+  "key": "tab-3-9",
+  "page": 189,
+  "mode": "crop",
+  "file": "img/tab-3-9.jpg",
+  "w": 792,
+  "h": 505
+ },
+ "fig-3-48": {
+  "key": "fig-3-48",
+  "page": 190,
+  "mode": "crop",
+  "file": "img/fig-3-48.jpg",
+  "w": 789,
+  "h": 632
+ },
+ "fig-3-49": {
+  "key": "fig-3-49",
+  "page": 191,
+  "mode": "crop",
+  "file": "img/fig-3-49.jpg",
+  "w": 790,
+  "h": 432
+ },
+ "tab-3-10": {
+  "key": "tab-3-10",
+  "page": 192,
+  "mode": "page",
+  "file": "img/tab-3-10.jpg",
+  "w": 791,
+  "h": 1394
+ },
+ "tab-3-11": {
+  "key": "tab-3-11",
+  "page": 193,
+  "mode": "crop",
+  "file": "img/tab-3-11.jpg",
+  "w": 791,
+  "h": 192
+ },
+ "fig-3-50": {
+  "key": "fig-3-50",
+  "page": 194,
+  "mode": "crop",
+  "file": "img/fig-3-50.jpg",
+  "w": 737,
+  "h": 507
+ },
+ "fig-3-51": {
+  "key": "fig-3-51",
+  "page": 194,
+  "mode": "page",
+  "file": "img/fig-3-51.jpg",
+  "w": 737,
+  "h": 1394
+ },
+ "tab-3-12": {
+  "key": "tab-3-12",
+  "page": 195,
+  "mode": "crop",
+  "file": "img/tab-3-12.jpg",
+  "w": 791,
+  "h": 591
+ },
+ "fig-3-52": {
+  "key": "fig-3-52",
+  "page": 196,
+  "mode": "crop",
+  "file": "img/fig-3-52.jpg",
+  "w": 793,
+  "h": 579
+ },
+ "tab-3-13": {
+  "key": "tab-3-13",
+  "page": 197,
+  "mode": "crop",
+  "file": "img/tab-3-13.jpg",
+  "w": 788,
+  "h": 858
+ },
+ "fig-3-53": {
+  "key": "fig-3-53",
+  "page": 198,
+  "mode": "crop",
+  "file": "img/fig-3-53.jpg",
+  "w": 793,
+  "h": 668
+ },
+ "fig-3-54": {
+  "key": "fig-3-54",
+  "page": 200,
+  "mode": "crop",
+  "file": "img/fig-3-54.jpg",
+  "w": 778,
+  "h": 531
+ },
+ "fig-3-55": {
+  "key": "fig-3-55",
+  "page": 200,
+  "mode": "crop",
+  "file": "img/fig-3-55.jpg",
+  "w": 778,
+  "h": 540
+ },
+ "fig-3-56": {
+  "key": "fig-3-56",
+  "page": 201,
+  "mode": "crop",
+  "file": "img/fig-3-56.jpg",
+  "w": 792,
+  "h": 535
+ },
+ "tab-3-14": {
+  "key": "tab-3-14",
+  "page": 202,
+  "mode": "page",
+  "file": "img/tab-3-14.jpg",
+  "w": 770,
+  "h": 1394
+ },
+ "fig-3-57": {
+  "key": "fig-3-57",
+  "page": 202,
+  "mode": "crop",
+  "file": "img/fig-3-57.jpg",
+  "w": 770,
+  "h": 516
+ },
+ "fig-3-58": {
+  "key": "fig-3-58",
+  "page": 204,
+  "mode": "page",
+  "file": "img/fig-3-58.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-3-59": {
+  "key": "fig-3-59",
+  "page": 206,
+  "mode": "crop",
+  "file": "img/fig-3-59.jpg",
+  "w": 778,
+  "h": 379
+ },
+ "tab-3-15": {
+  "key": "tab-3-15",
+  "page": 206,
+  "mode": "crop",
+  "file": "img/tab-3-15.jpg",
+  "w": 778,
+  "h": 809
+ },
+ "tab-3-16": {
+  "key": "tab-3-16",
+  "page": 207,
+  "mode": "page",
+  "file": "img/tab-3-16.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "tab-3-17": {
+  "key": "tab-3-17",
+  "page": 208,
+  "mode": "page",
+  "file": "img/tab-3-17.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "fig-3-60": {
+  "key": "fig-3-60",
+  "page": 209,
+  "mode": "crop",
+  "file": "img/fig-3-60.jpg",
+  "w": 792,
+  "h": 730
+ },
+ "tab-3-18": {
+  "key": "tab-3-18",
+  "page": 210,
+  "mode": "crop",
+  "file": "img/tab-3-18.jpg",
+  "w": 789,
+  "h": 843
+ },
+ "fig-4-1": {
+  "key": "fig-4-1",
+  "page": 219,
+  "mode": "crop",
+  "file": "img/fig-4-1.jpg",
+  "w": 791,
+  "h": 300
+ },
+ "fig-4-2": {
+  "key": "fig-4-2",
+  "page": 220,
+  "mode": "crop",
+  "file": "img/fig-4-2.jpg",
+  "w": 795,
+  "h": 301
+ },
+ "fig-4-3": {
+  "key": "fig-4-3",
+  "page": 221,
+  "mode": "page",
+  "file": "img/fig-4-3.jpg",
+  "w": 791,
+  "h": 1394
+ },
+ "fig-4-4": {
+  "key": "fig-4-4",
+  "page": 222,
+  "mode": "crop",
+  "file": "img/fig-4-4.jpg",
+  "w": 789,
+  "h": 569
+ },
+ "fig-4-5": {
+  "key": "fig-4-5",
+  "page": 223,
+  "mode": "crop",
+  "file": "img/fig-4-5.jpg",
+  "w": 791,
+  "h": 352
+ },
+ "tab-4-1": {
+  "key": "tab-4-1",
+  "page": 224,
+  "mode": "crop",
+  "file": "img/tab-4-1.jpg",
+  "w": 793,
+  "h": 599
+ },
+ "tab-4-2": {
+  "key": "tab-4-2",
+  "page": 226,
+  "mode": "crop",
+  "file": "img/tab-4-2.jpg",
+  "w": 790,
+  "h": 867
+ },
+ "tab-4-3": {
+  "key": "tab-4-3",
+  "page": 227,
+  "mode": "crop",
+  "file": "img/tab-4-3.jpg",
+  "w": 793,
+  "h": 398
+ },
+ "fig-4-6": {
+  "key": "fig-4-6",
+  "page": 228,
+  "mode": "crop",
+  "file": "img/fig-4-6.jpg",
+  "w": 792,
+  "h": 600
+ },
+ "tab-4-4": {
+  "key": "tab-4-4",
+  "page": 229,
+  "mode": "crop",
+  "file": "img/tab-4-4.jpg",
+  "w": 793,
+  "h": 327
+ },
+ "fig-4-7": {
+  "key": "fig-4-7",
+  "page": 229,
+  "mode": "crop",
+  "file": "img/fig-4-7.jpg",
+  "w": 793,
+  "h": 548
+ },
+ "fig-4-8": {
+  "key": "fig-4-8",
+  "page": 231,
+  "mode": "crop",
+  "file": "img/fig-4-8.jpg",
+  "w": 795,
+  "h": 298
+ },
+ "fig-4-9": {
+  "key": "fig-4-9",
+  "page": 234,
+  "mode": "crop",
+  "file": "img/fig-4-9.jpg",
+  "w": 792,
+  "h": 261
+ },
+ "fig-4-11": {
+  "key": "fig-4-11",
+  "page": 234,
+  "mode": "crop",
+  "file": "img/fig-4-11.jpg",
+  "w": 792,
+  "h": 547
+ },
+ "fig-4-12": {
+  "key": "fig-4-12",
+  "page": 236,
+  "mode": "crop",
+  "file": "img/fig-4-12.jpg",
+  "w": 790,
+  "h": 953
+ },
+ "fig-4-13": {
+  "key": "fig-4-13",
+  "page": 237,
+  "mode": "crop",
+  "file": "img/fig-4-13.jpg",
+  "w": 793,
+  "h": 523
+ },
+ "fig-4-14": {
+  "key": "fig-4-14",
+  "page": 238,
+  "mode": "page",
+  "file": "img/fig-4-14.jpg",
+  "w": 794,
+  "h": 1394
+ },
+ "fig-4-15": {
+  "key": "fig-4-15",
+  "page": 238,
+  "mode": "crop",
+  "file": "img/fig-4-15.jpg",
+  "w": 794,
+  "h": 747
+ },
+ "fig-4-16": {
+  "key": "fig-4-16",
+  "page": 240,
+  "mode": "crop",
+  "file": "img/fig-4-16.jpg",
+  "w": 792,
+  "h": 575
+ },
+ "fig-4-17": {
+  "key": "fig-4-17",
+  "page": 243,
+  "mode": "crop",
+  "file": "img/fig-4-17.jpg",
+  "w": 790,
+  "h": 407
+ },
+ "fig-4-18": {
+  "key": "fig-4-18",
+  "page": 243,
+  "mode": "crop",
+  "file": "img/fig-4-18.jpg",
+  "w": 790,
+  "h": 557
+ },
+ "tab-4-5": {
+  "key": "tab-4-5",
+  "page": 244,
+  "mode": "crop",
+  "file": "img/tab-4-5.jpg",
+  "w": 792,
+  "h": 198
+ },
+ "fig-4-19": {
+  "key": "fig-4-19",
+  "page": 245,
+  "mode": "crop",
+  "file": "img/fig-4-19.jpg",
+  "w": 790,
+  "h": 611
+ },
+ "fig-4-20": {
+  "key": "fig-4-20",
+  "page": 246,
+  "mode": "crop",
+  "file": "img/fig-4-20.jpg",
+  "w": 789,
+  "h": 627
+ },
+ "fig-4-21": {
+  "key": "fig-4-21",
+  "page": 246,
+  "mode": "crop",
+  "file": "img/fig-4-21.jpg",
+  "w": 789,
+  "h": 549
+ },
+ "fig-4-22": {
+  "key": "fig-4-22",
+  "page": 247,
+  "mode": "crop",
+  "file": "img/fig-4-22.jpg",
+  "w": 790,
+  "h": 637
+ },
+ "fig-4-23": {
+  "key": "fig-4-23",
+  "page": 248,
+  "mode": "crop",
+  "file": "img/fig-4-23.jpg",
+  "w": 792,
+  "h": 505
+ },
+ "fig-4-24": {
+  "key": "fig-4-24",
+  "page": 249,
+  "mode": "crop",
+  "file": "img/fig-4-24.jpg",
+  "w": 792,
+  "h": 490
+ },
+ "tab-4-6": {
+  "key": "tab-4-6",
+  "page": 249,
+  "mode": "page",
+  "file": "img/tab-4-6.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "tab-4-7": {
+  "key": "tab-4-7",
+  "page": 250,
+  "mode": "page",
+  "file": "img/tab-4-7.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-4-25": {
+  "key": "fig-4-25",
+  "page": 251,
+  "mode": "crop",
+  "file": "img/fig-4-25.jpg",
+  "w": 790,
+  "h": 552
+ },
+ "fig-4-26": {
+  "key": "fig-4-26",
+  "page": 252,
+  "mode": "crop",
+  "file": "img/fig-4-26.jpg",
+  "w": 792,
+  "h": 485
+ },
+ "fig-4-27": {
+  "key": "fig-4-27",
+  "page": 253,
+  "mode": "crop",
+  "file": "img/fig-4-27.jpg",
+  "w": 791,
+  "h": 486
+ },
+ "fig-4-29": {
+  "key": "fig-4-29",
+  "page": 255,
+  "mode": "crop",
+  "file": "img/fig-4-29.jpg",
+  "w": 792,
+  "h": 294
+ },
+ "fig-4-30": {
+  "key": "fig-4-30",
+  "page": 256,
+  "mode": "crop",
+  "file": "img/fig-4-30.jpg",
+  "w": 789,
+  "h": 747
+ },
+ "fig-4-31": {
+  "key": "fig-4-31",
+  "page": 259,
+  "mode": "crop",
+  "file": "img/fig-4-31.jpg",
+  "w": 792,
+  "h": 489
+ },
+ "fig-4-32": {
+  "key": "fig-4-32",
+  "page": 264,
+  "mode": "crop",
+  "file": "img/fig-4-32.jpg",
+  "w": 795,
+  "h": 210
+ },
+ "fig-4-33": {
+  "key": "fig-4-33",
+  "page": 269,
+  "mode": "crop",
+  "file": "img/fig-4-33.jpg",
+  "w": 791,
+  "h": 472
+ },
+ "fig-4-34": {
+  "key": "fig-4-34",
+  "page": 271,
+  "mode": "crop",
+  "file": "img/fig-4-34.jpg",
+  "w": 790,
+  "h": 546
+ },
+ "fig-4-35": {
+  "key": "fig-4-35",
+  "page": 273,
+  "mode": "crop",
+  "file": "img/fig-4-35.jpg",
+  "w": 791,
+  "h": 370
+ },
+ "fig-4-36": {
+  "key": "fig-4-36",
+  "page": 273,
+  "mode": "crop",
+  "file": "img/fig-4-36.jpg",
+  "w": 791,
+  "h": 472
+ },
+ "fig-4-37": {
+  "key": "fig-4-37",
+  "page": 276,
+  "mode": "crop",
+  "file": "img/fig-4-37.jpg",
+  "w": 792,
+  "h": 425
+ },
+ "fig-4-38": {
+  "key": "fig-4-38",
+  "page": 276,
+  "mode": "crop",
+  "file": "img/fig-4-38.jpg",
+  "w": 792,
+  "h": 470
+ },
+ "fig-4-39": {
+  "key": "fig-4-39",
+  "page": 277,
+  "mode": "crop",
+  "file": "img/fig-4-39.jpg",
+  "w": 789,
+  "h": 461
+ },
+ "fig-4-40": {
+  "key": "fig-4-40",
+  "page": 277,
+  "mode": "crop",
+  "file": "img/fig-4-40.jpg",
+  "w": 789,
+  "h": 460
+ },
+ "fig-4-41": {
+  "key": "fig-4-41",
+  "page": 278,
+  "mode": "crop",
+  "file": "img/fig-4-41.jpg",
+  "w": 793,
+  "h": 669
+ },
+ "fig-4-42": {
+  "key": "fig-4-42",
+  "page": 279,
+  "mode": "crop",
+  "file": "img/fig-4-42.jpg",
+  "w": 792,
+  "h": 390
+ },
+ "fig-4-43": {
+  "key": "fig-4-43",
+  "page": 281,
+  "mode": "crop",
+  "file": "img/fig-4-43.jpg",
+  "w": 790,
+  "h": 565
+ },
+ "tab-4-10": {
+  "key": "tab-4-10",
+  "page": 281,
+  "mode": "crop",
+  "file": "img/tab-4-10.jpg",
+  "w": 790,
+  "h": 393
+ },
+ "tab-4-11": {
+  "key": "tab-4-11",
+  "page": 282,
+  "mode": "page",
+  "file": "img/tab-4-11.jpg",
+  "w": 791,
+  "h": 1394
+ },
+ "fig-4-44": {
+  "key": "fig-4-44",
+  "page": 284,
+  "mode": "crop",
+  "file": "img/fig-4-44.jpg",
+  "w": 796,
+  "h": 364
+ },
+ "fig-4-45": {
+  "key": "fig-4-45",
+  "page": 284,
+  "mode": "crop",
+  "file": "img/fig-4-45.jpg",
+  "w": 796,
+  "h": 418
+ },
+ "tab-4-13": {
+  "key": "tab-4-13",
+  "page": 285,
+  "mode": "crop",
+  "file": "img/tab-4-13.jpg",
+  "w": 790,
+  "h": 401
+ },
+ "fig-4-46": {
+  "key": "fig-4-46",
+  "page": 286,
+  "mode": "crop",
+  "file": "img/fig-4-46.jpg",
+  "w": 790,
+  "h": 615
+ },
+ "tab-4-16": {
+  "key": "tab-4-16",
+  "page": 286,
+  "mode": "page",
+  "file": "img/tab-4-16.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "tab-4-14": {
+  "key": "tab-4-14",
+  "page": 287,
+  "mode": "crop",
+  "file": "img/tab-4-14.jpg",
+  "w": 793,
+  "h": 883
+ },
+ "tab-4-15": {
+  "key": "tab-4-15",
+  "page": 288,
+  "mode": "crop",
+  "file": "img/tab-4-15.jpg",
+  "w": 790,
+  "h": 741
+ },
+ "fig-4-47": {
+  "key": "fig-4-47",
+  "page": 290,
+  "mode": "crop",
+  "file": "img/fig-4-47.jpg",
+  "w": 790,
+  "h": 424
+ },
+ "fig-4-48": {
+  "key": "fig-4-48",
+  "page": 290,
+  "mode": "crop",
+  "file": "img/fig-4-48.jpg",
+  "w": 790,
+  "h": 477
+ },
+ "tab-4-17": {
+  "key": "tab-4-17",
+  "page": 291,
+  "mode": "crop",
+  "file": "img/tab-4-17.jpg",
+  "w": 793,
+  "h": 877
+ },
+ "tab-4-18": {
+  "key": "tab-4-18",
+  "page": 295,
+  "mode": "crop",
+  "file": "img/tab-4-18.jpg",
+  "w": 791,
+  "h": 235
+ },
+ "fig-4-49": {
+  "key": "fig-4-49",
+  "page": 295,
+  "mode": "crop",
+  "file": "img/fig-4-49.jpg",
+  "w": 791,
+  "h": 414
+ },
+ "tab-4-19": {
+  "key": "tab-4-19",
+  "page": 298,
+  "mode": "crop",
+  "file": "img/tab-4-19.jpg",
+  "w": 790,
+  "h": 571
+ },
+ "fig-4-50": {
+  "key": "fig-4-50",
+  "page": 302,
+  "mode": "crop",
+  "file": "img/fig-4-50.jpg",
+  "w": 785,
+  "h": 548
+ },
+ "fig-4-51": {
+  "key": "fig-4-51",
+  "page": 302,
+  "mode": "crop",
+  "file": "img/fig-4-51.jpg",
+  "w": 785,
+  "h": 535
+ },
+ "fig-4-52": {
+  "key": "fig-4-52",
+  "page": 306,
+  "mode": "crop",
+  "file": "img/fig-4-52.jpg",
+  "w": 791,
+  "h": 468
+ },
+ "fig-4-53": {
+  "key": "fig-4-53",
+  "page": 306,
+  "mode": "crop",
+  "file": "img/fig-4-53.jpg",
+  "w": 791,
+  "h": 500
+ },
+ "fig-4-54": {
+  "key": "fig-4-54",
+  "page": 307,
+  "mode": "crop",
+  "file": "img/fig-4-54.jpg",
+  "w": 791,
+  "h": 467
+ },
+ "tab-4-22": {
+  "key": "tab-4-22",
+  "page": 308,
+  "mode": "crop",
+  "file": "img/tab-4-22.jpg",
+  "w": 793,
+  "h": 929
+ },
+ "fig-4-55": {
+  "key": "fig-4-55",
+  "page": 308,
+  "mode": "page",
+  "file": "img/fig-4-55.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "fig-4-56": {
+  "key": "fig-4-56",
+  "page": 309,
+  "mode": "crop",
+  "file": "img/fig-4-56.jpg",
+  "w": 790,
+  "h": 476
+ },
+ "tab-4-23": {
+  "key": "tab-4-23",
+  "page": 309,
+  "mode": "crop",
+  "file": "img/tab-4-23.jpg",
+  "w": 790,
+  "h": 274
+ },
+ "fig-5-1": {
+  "key": "fig-5-1",
+  "page": 320,
+  "mode": "crop",
+  "file": "img/fig-5-1.jpg",
+  "w": 793,
+  "h": 913
+ },
+ "fig-5-2": {
+  "key": "fig-5-2",
+  "page": 321,
+  "mode": "crop",
+  "file": "img/fig-5-2.jpg",
+  "w": 791,
+  "h": 609
+ },
+ "fig-5-3": {
+  "key": "fig-5-3",
+  "page": 323,
+  "mode": "crop",
+  "file": "img/fig-5-3.jpg",
+  "w": 789,
+  "h": 739
+ },
+ "fig-5-4": {
+  "key": "fig-5-4",
+  "page": 324,
+  "mode": "crop",
+  "file": "img/fig-5-4.jpg",
+  "w": 793,
+  "h": 726
+ },
+ "fig-5-5": {
+  "key": "fig-5-5",
+  "page": 325,
+  "mode": "crop",
+  "file": "img/fig-5-5.jpg",
+  "w": 789,
+  "h": 608
+ },
+ "fig-5-6": {
+  "key": "fig-5-6",
+  "page": 327,
+  "mode": "crop",
+  "file": "img/fig-5-6.jpg",
+  "w": 789,
+  "h": 517
+ },
+ "fig-5-7": {
+  "key": "fig-5-7",
+  "page": 330,
+  "mode": "crop",
+  "file": "img/fig-5-7.jpg",
+  "w": 788,
+  "h": 707
+ },
+ "fig-5-8": {
+  "key": "fig-5-8",
+  "page": 330,
+  "mode": "crop",
+  "file": "img/fig-5-8.jpg",
+  "w": 788,
+  "h": 500
+ },
+ "fig-5-9": {
+  "key": "fig-5-9",
+  "page": 331,
+  "mode": "crop",
+  "file": "img/fig-5-9.jpg",
+  "w": 785,
+  "h": 566
+ },
+ "fig-5-10": {
+  "key": "fig-5-10",
+  "page": 331,
+  "mode": "crop",
+  "file": "img/fig-5-10.jpg",
+  "w": 785,
+  "h": 579
+ },
+ "fig-5-11": {
+  "key": "fig-5-11",
+  "page": 333,
+  "mode": "crop",
+  "file": "img/fig-5-11.jpg",
+  "w": 789,
+  "h": 524
+ },
+ "fig-5-12": {
+  "key": "fig-5-12",
+  "page": 333,
+  "mode": "crop",
+  "file": "img/fig-5-12.jpg",
+  "w": 789,
+  "h": 759
+ },
+ "fig-5-13": {
+  "key": "fig-5-13",
+  "page": 335,
+  "mode": "crop",
+  "file": "img/fig-5-13.jpg",
+  "w": 791,
+  "h": 993
+ },
+ "fig-5-14": {
+  "key": "fig-5-14",
+  "page": 337,
+  "mode": "crop",
+  "file": "img/fig-5-14.jpg",
+  "w": 791,
+  "h": 668
+ },
+ "fig-5-15": {
+  "key": "fig-5-15",
+  "page": 338,
+  "mode": "crop",
+  "file": "img/fig-5-15.jpg",
+  "w": 789,
+  "h": 695
+ },
+ "fig-5-16": {
+  "key": "fig-5-16",
+  "page": 339,
+  "mode": "crop",
+  "file": "img/fig-5-16.jpg",
+  "w": 785,
+  "h": 673
+ },
+ "fig-5-17": {
+  "key": "fig-5-17",
+  "page": 339,
+  "mode": "crop",
+  "file": "img/fig-5-17.jpg",
+  "w": 785,
+  "h": 601
+ },
+ "fig-5-18": {
+  "key": "fig-5-18",
+  "page": 343,
+  "mode": "crop",
+  "file": "img/fig-5-18.jpg",
+  "w": 792,
+  "h": 516
+ },
+ "fig-5-19": {
+  "key": "fig-5-19",
+  "page": 347,
+  "mode": "crop",
+  "file": "img/fig-5-19.jpg",
+  "w": 793,
+  "h": 725
+ },
+ "tab-5-1": {
+  "key": "tab-5-1",
+  "page": 348,
+  "mode": "crop",
+  "file": "img/tab-5-1.jpg",
+  "w": 789,
+  "h": 469
+ },
+ "fig-5-20": {
+  "key": "fig-5-20",
+  "page": 349,
+  "mode": "crop",
+  "file": "img/fig-5-20.jpg",
+  "w": 783,
+  "h": 1234
+ },
+ "tab-5-2": {
+  "key": "tab-5-2",
+  "page": 353,
+  "mode": "crop",
+  "file": "img/tab-5-2.jpg",
+  "w": 779,
+  "h": 542
+ },
+ "fig-5-21": {
+  "key": "fig-5-21",
+  "page": 353,
+  "mode": "crop",
+  "file": "img/fig-5-21.jpg",
+  "w": 779,
+  "h": 660
+ },
+ "fig-5-22": {
+  "key": "fig-5-22",
+  "page": 355,
+  "mode": "crop",
+  "file": "img/fig-5-22.jpg",
+  "w": 791,
+  "h": 782
+ },
+ "tab-5-3": {
+  "key": "tab-5-3",
+  "page": 356,
+  "mode": "crop",
+  "file": "img/tab-5-3.jpg",
+  "w": 792,
+  "h": 814
+ },
+ "tab-5-4": {
+  "key": "tab-5-4",
+  "page": 357,
+  "mode": "page",
+  "file": "img/tab-5-4.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "fig-5-23": {
+  "key": "fig-5-23",
+  "page": 359,
+  "mode": "crop",
+  "file": "img/fig-5-23.jpg",
+  "w": 791,
+  "h": 549
+ },
+ "fig-6-1": {
+  "key": "fig-6-1",
+  "page": 368,
+  "mode": "crop",
+  "file": "img/fig-6-1.jpg",
+  "w": 793,
+  "h": 290
+ },
+ "fig-6-2": {
+  "key": "fig-6-2",
+  "page": 370,
+  "mode": "crop",
+  "file": "img/fig-6-2.jpg",
+  "w": 793,
+  "h": 574
+ },
+ "fig-6-3": {
+  "key": "fig-6-3",
+  "page": 371,
+  "mode": "crop",
+  "file": "img/fig-6-3.jpg",
+  "w": 793,
+  "h": 484
+ },
+ "fig-6-4": {
+  "key": "fig-6-4",
+  "page": 372,
+  "mode": "crop",
+  "file": "img/fig-6-4.jpg",
+  "w": 789,
+  "h": 857
+ },
+ "fig-6-5": {
+  "key": "fig-6-5",
+  "page": 374,
+  "mode": "crop",
+  "file": "img/fig-6-5.jpg",
+  "w": 790,
+  "h": 371
+ },
+ "tab-6-1": {
+  "key": "tab-6-1",
+  "page": 378,
+  "mode": "crop",
+  "file": "img/tab-6-1.jpg",
+  "w": 789,
+  "h": 275
+ },
+ "fig-6-6": {
+  "key": "fig-6-6",
+  "page": 379,
+  "mode": "page",
+  "file": "img/fig-6-6.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "fig-6-7": {
+  "key": "fig-6-7",
+  "page": 380,
+  "mode": "crop",
+  "file": "img/fig-6-7.jpg",
+  "w": 789,
+  "h": 899
+ },
+ "fig-6-8": {
+  "key": "fig-6-8",
+  "page": 382,
+  "mode": "crop",
+  "file": "img/fig-6-8.jpg",
+  "w": 793,
+  "h": 777
+ },
+ "tab-6-2": {
+  "key": "tab-6-2",
+  "page": 383,
+  "mode": "crop",
+  "file": "img/tab-6-2.jpg",
+  "w": 790,
+  "h": 442
+ },
+ "tab-6-3": {
+  "key": "tab-6-3",
+  "page": 389,
+  "mode": "crop",
+  "file": "img/tab-6-3.jpg",
+  "w": 791,
+  "h": 246
+ },
+ "fig-6-9": {
+  "key": "fig-6-9",
+  "page": 390,
+  "mode": "crop",
+  "file": "img/fig-6-9.jpg",
+  "w": 795,
+  "h": 414
+ },
+ "fig-6-10": {
+  "key": "fig-6-10",
+  "page": 391,
+  "mode": "crop",
+  "file": "img/fig-6-10.jpg",
+  "w": 768,
+  "h": 1235
+ },
+ "fig-6-11": {
+  "key": "fig-6-11",
+  "page": 393,
+  "mode": "crop",
+  "file": "img/fig-6-11.jpg",
+  "w": 790,
+  "h": 433
+ },
+ "fig-6-12": {
+  "key": "fig-6-12",
+  "page": 394,
+  "mode": "crop",
+  "file": "img/fig-6-12.jpg",
+  "w": 792,
+  "h": 685
+ },
+ "tab-6-4": {
+  "key": "tab-6-4",
+  "page": 401,
+  "mode": "page",
+  "file": "img/tab-6-4.jpg",
+  "w": 791,
+  "h": 1394
+ },
+ "fig-6-13": {
+  "key": "fig-6-13",
+  "page": 402,
+  "mode": "crop",
+  "file": "img/fig-6-13.jpg",
+  "w": 788,
+  "h": 539
+ },
+ "fig-6-14": {
+  "key": "fig-6-14",
+  "page": 402,
+  "mode": "page",
+  "file": "img/fig-6-14.jpg",
+  "w": 788,
+  "h": 1394
+ },
+ "fig-6-15": {
+  "key": "fig-6-15",
+  "page": 404,
+  "mode": "crop",
+  "file": "img/fig-6-15.jpg",
+  "w": 780,
+  "h": 521
+ },
+ "fig-6-16": {
+  "key": "fig-6-16",
+  "page": 404,
+  "mode": "crop",
+  "file": "img/fig-6-16.jpg",
+  "w": 780,
+  "h": 560
+ },
+ "fig-6-17": {
+  "key": "fig-6-17",
+  "page": 406,
+  "mode": "crop",
+  "file": "img/fig-6-17.jpg",
+  "w": 790,
+  "h": 853
+ },
+ "tab-6-5": {
+  "key": "tab-6-5",
+  "page": 407,
+  "mode": "crop",
+  "file": "img/tab-6-5.jpg",
+  "w": 792,
+  "h": 524
+ },
+ "fig-6-18": {
+  "key": "fig-6-18",
+  "page": 408,
+  "mode": "page",
+  "file": "img/fig-6-18.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "fig-7-1": {
+  "key": "fig-7-1",
+  "page": 420,
+  "mode": "crop",
+  "file": "img/fig-7-1.jpg",
+  "w": 793,
+  "h": 229
+ },
+ "fig-7-2": {
+  "key": "fig-7-2",
+  "page": 429,
+  "mode": "crop",
+  "file": "img/fig-7-2.jpg",
+  "w": 792,
+  "h": 412
+ },
+ "fig-7-4": {
+  "key": "fig-7-4",
+  "page": 431,
+  "mode": "crop",
+  "file": "img/fig-7-4.jpg",
+  "w": 793,
+  "h": 365
+ },
+ "fig-7-5": {
+  "key": "fig-7-5",
+  "page": 436,
+  "mode": "crop",
+  "file": "img/fig-7-5.jpg",
+  "w": 792,
+  "h": 546
+ },
+ "tab-7-1": {
+  "key": "tab-7-1",
+  "page": 444,
+  "mode": "crop",
+  "file": "img/tab-7-1.jpg",
+  "w": 792,
+  "h": 909
+ },
+ "fig-7-7": {
+  "key": "fig-7-7",
+  "page": 446,
+  "mode": "crop",
+  "file": "img/fig-7-7.jpg",
+  "w": 792,
+  "h": 471
+ },
+ "fig-7-8": {
+  "key": "fig-7-8",
+  "page": 459,
+  "mode": "crop",
+  "file": "img/fig-7-8.jpg",
+  "w": 795,
+  "h": 409
+ },
+ "fig-7-9": {
+  "key": "fig-7-9",
+  "page": 460,
+  "mode": "page",
+  "file": "img/fig-7-9.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "fig-7-10": {
+  "key": "fig-7-10",
+  "page": 465,
+  "mode": "crop",
+  "file": "img/fig-7-10.jpg",
+  "w": 789,
+  "h": 626
+ },
+ "fig-7-11": {
+  "key": "fig-7-11",
+  "page": 470,
+  "mode": "crop",
+  "file": "img/fig-7-11.jpg",
+  "w": 795,
+  "h": 485
+ },
+ "tab-7-2": {
+  "key": "tab-7-2",
+  "page": 470,
+  "mode": "crop",
+  "file": "img/tab-7-2.jpg",
+  "w": 795,
+  "h": 345
+ },
+ "fig-7-12": {
+  "key": "fig-7-12",
+  "page": 475,
+  "mode": "crop",
+  "file": "img/fig-7-12.jpg",
+  "w": 791,
+  "h": 388
+ },
+ "fig-7-13": {
+  "key": "fig-7-13",
+  "page": 476,
+  "mode": "crop",
+  "file": "img/fig-7-13.jpg",
+  "w": 792,
+  "h": 257
+ },
+ "fig-7-14": {
+  "key": "fig-7-14",
+  "page": 477,
+  "mode": "crop",
+  "file": "img/fig-7-14.jpg",
+  "w": 792,
+  "h": 871
+ },
+ "fig-7-15": {
+  "key": "fig-7-15",
+  "page": 478,
+  "mode": "crop",
+  "file": "img/fig-7-15.jpg",
+  "w": 793,
+  "h": 370
+ },
+ "tab-7-3": {
+  "key": "tab-7-3",
+  "page": 478,
+  "mode": "crop",
+  "file": "img/tab-7-3.jpg",
+  "w": 793,
+  "h": 373
+ },
+ "fig-7-16": {
+  "key": "fig-7-16",
+  "page": 479,
+  "mode": "crop",
+  "file": "img/fig-7-16.jpg",
+  "w": 789,
+  "h": 453
+ },
+ "fig-7-17": {
+  "key": "fig-7-17",
+  "page": 481,
+  "mode": "crop",
+  "file": "img/fig-7-17.jpg",
+  "w": 794,
+  "h": 248
+ },
+ "fig-7-18": {
+  "key": "fig-7-18",
+  "page": 481,
+  "mode": "crop",
+  "file": "img/fig-7-18.jpg",
+  "w": 794,
+  "h": 511
+ },
+ "fig-7-19": {
+  "key": "fig-7-19",
+  "page": 483,
+  "mode": "crop",
+  "file": "img/fig-7-19.jpg",
+  "w": 827,
+  "h": 439
+ },
+ "fig-8-1": {
+  "key": "fig-8-1",
+  "page": 492,
+  "mode": "crop",
+  "file": "img/fig-8-1.jpg",
+  "w": 793,
+  "h": 373
+ },
+ "fig-8-2": {
+  "key": "fig-8-2",
+  "page": 496,
+  "mode": "crop",
+  "file": "img/fig-8-2.jpg",
+  "w": 780,
+  "h": 353
+ },
+ "fig-8-3": {
+  "key": "fig-8-3",
+  "page": 496,
+  "mode": "crop",
+  "file": "img/fig-8-3.jpg",
+  "w": 780,
+  "h": 501
+ },
+ "fig-8-4": {
+  "key": "fig-8-4",
+  "page": 497,
+  "mode": "crop",
+  "file": "img/fig-8-4.jpg",
+  "w": 790,
+  "h": 284
+ },
+ "fig-8-5": {
+  "key": "fig-8-5",
+  "page": 498,
+  "mode": "page",
+  "file": "img/fig-8-5.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-8-6": {
+  "key": "fig-8-6",
+  "page": 499,
+  "mode": "crop",
+  "file": "img/fig-8-6.jpg",
+  "w": 782,
+  "h": 435
+ },
+ "fig-8-7": {
+  "key": "fig-8-7",
+  "page": 500,
+  "mode": "crop",
+  "file": "img/fig-8-7.jpg",
+  "w": 790,
+  "h": 551
+ },
+ "fig-8-8": {
+  "key": "fig-8-8",
+  "page": 501,
+  "mode": "crop",
+  "file": "img/fig-8-8.jpg",
+  "w": 789,
+  "h": 668
+ },
+ "fig-8-9": {
+  "key": "fig-8-9",
+  "page": 504,
+  "mode": "crop",
+  "file": "img/fig-8-9.jpg",
+  "w": 795,
+  "h": 422
+ },
+ "fig-8-10": {
+  "key": "fig-8-10",
+  "page": 505,
+  "mode": "crop",
+  "file": "img/fig-8-10.jpg",
+  "w": 790,
+  "h": 425
+ },
+ "tab-8-2": {
+  "key": "tab-8-2",
+  "page": 506,
+  "mode": "crop",
+  "file": "img/tab-8-2.jpg",
+  "w": 795,
+  "h": 310
+ },
+ "tab-8-3": {
+  "key": "tab-8-3",
+  "page": 506,
+  "mode": "crop",
+  "file": "img/tab-8-3.jpg",
+  "w": 795,
+  "h": 382
+ },
+ "fig-8-11": {
+  "key": "fig-8-11",
+  "page": 509,
+  "mode": "crop",
+  "file": "img/fig-8-11.jpg",
+  "w": 791,
+  "h": 517
+ },
+ "fig-8-12": {
+  "key": "fig-8-12",
+  "page": 513,
+  "mode": "page",
+  "file": "img/fig-8-12.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "fig-8-13": {
+  "key": "fig-8-13",
+  "page": 515,
+  "mode": "crop",
+  "file": "img/fig-8-13.jpg",
+  "w": 792,
+  "h": 578
+ },
+ "fig-8-14": {
+  "key": "fig-8-14",
+  "page": 517,
+  "mode": "crop",
+  "file": "img/fig-8-14.jpg",
+  "w": 792,
+  "h": 330
+ },
+ "fig-8-15": {
+  "key": "fig-8-15",
+  "page": 520,
+  "mode": "crop",
+  "file": "img/fig-8-15.jpg",
+  "w": 794,
+  "h": 409
+ },
+ "tab-8-4": {
+  "key": "tab-8-4",
+  "page": 521,
+  "mode": "page",
+  "file": "img/tab-8-4.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-8-16": {
+  "key": "fig-8-16",
+  "page": 522,
+  "mode": "crop",
+  "file": "img/fig-8-16.jpg",
+  "w": 794,
+  "h": 371
+ },
+ "fig-8-17": {
+  "key": "fig-8-17",
+  "page": 523,
+  "mode": "crop",
+  "file": "img/fig-8-17.jpg",
+  "w": 793,
+  "h": 518
+ },
+ "fig-8-18": {
+  "key": "fig-8-18",
+  "page": 523,
+  "mode": "crop",
+  "file": "img/fig-8-18.jpg",
+  "w": 793,
+  "h": 718
+ },
+ "fig-8-19": {
+  "key": "fig-8-19",
+  "page": 526,
+  "mode": "crop",
+  "file": "img/fig-8-19.jpg",
+  "w": 794,
+  "h": 602
+ },
+ "fig-8-20": {
+  "key": "fig-8-20",
+  "page": 528,
+  "mode": "crop",
+  "file": "img/fig-8-20.jpg",
+  "w": 793,
+  "h": 357
+ },
+ "fig-8-21": {
+  "key": "fig-8-21",
+  "page": 529,
+  "mode": "crop",
+  "file": "img/fig-8-21.jpg",
+  "w": 790,
+  "h": 528
+ },
+ "fig-8-22": {
+  "key": "fig-8-22",
+  "page": 531,
+  "mode": "crop",
+  "file": "img/fig-8-22.jpg",
+  "w": 791,
+  "h": 457
+ },
+ "fig-8-23": {
+  "key": "fig-8-23",
+  "page": 532,
+  "mode": "crop",
+  "file": "img/fig-8-23.jpg",
+  "w": 797,
+  "h": 569
+ },
+ "fig-8-24": {
+  "key": "fig-8-24",
+  "page": 533,
+  "mode": "crop",
+  "file": "img/fig-8-24.jpg",
+  "w": 790,
+  "h": 324
+ },
+ "fig-8-25": {
+  "key": "fig-8-25",
+  "page": 535,
+  "mode": "crop",
+  "file": "img/fig-8-25.jpg",
+  "w": 790,
+  "h": 405
+ },
+ "fig-8-26": {
+  "key": "fig-8-26",
+  "page": 536,
+  "mode": "crop",
+  "file": "img/fig-8-26.jpg",
+  "w": 790,
+  "h": 587
+ },
+ "fig-8-27": {
+  "key": "fig-8-27",
+  "page": 537,
+  "mode": "crop",
+  "file": "img/fig-8-27.jpg",
+  "w": 793,
+  "h": 607
+ },
+ "fig-8-28": {
+  "key": "fig-8-28",
+  "page": 539,
+  "mode": "crop",
+  "file": "img/fig-8-28.jpg",
+  "w": 793,
+  "h": 321
+ },
+ "fig-8-29": {
+  "key": "fig-8-29",
+  "page": 541,
+  "mode": "crop",
+  "file": "img/fig-8-29.jpg",
+  "w": 795,
+  "h": 482
+ },
+ "fig-8-30": {
+  "key": "fig-8-30",
+  "page": 542,
+  "mode": "crop",
+  "file": "img/fig-8-30.jpg",
+  "w": 791,
+  "h": 577
+ },
+ "fig-8-31": {
+  "key": "fig-8-31",
+  "page": 543,
+  "mode": "crop",
+  "file": "img/fig-8-31.jpg",
+  "w": 791,
+  "h": 474
+ },
+ "fig-8-32": {
+  "key": "fig-8-32",
+  "page": 543,
+  "mode": "crop",
+  "file": "img/fig-8-32.jpg",
+  "w": 791,
+  "h": 570
+ },
+ "fig-9-2": {
+  "key": "fig-9-2",
+  "page": 553,
+  "mode": "crop",
+  "file": "img/fig-9-2.jpg",
+  "w": 790,
+  "h": 424
+ },
+ "fig-9-3": {
+  "key": "fig-9-3",
+  "page": 554,
+  "mode": "crop",
+  "file": "img/fig-9-3.jpg",
+  "w": 792,
+  "h": 440
+ },
+ "fig-9-4": {
+  "key": "fig-9-4",
+  "page": 555,
+  "mode": "crop",
+  "file": "img/fig-9-4.jpg",
+  "w": 790,
+  "h": 366
+ },
+ "fig-9-5": {
+  "key": "fig-9-5",
+  "page": 557,
+  "mode": "crop",
+  "file": "img/fig-9-5.jpg",
+  "w": 790,
+  "h": 473
+ },
+ "fig-9-7": {
+  "key": "fig-9-7",
+  "page": 561,
+  "mode": "crop",
+  "file": "img/fig-9-7.jpg",
+  "w": 790,
+  "h": 411
+ },
+ "tab-9-1": {
+  "key": "tab-9-1",
+  "page": 561,
+  "mode": "crop",
+  "file": "img/tab-9-1.jpg",
+  "w": 790,
+  "h": 274
+ },
+ "tab-9-2": {
+  "key": "tab-9-2",
+  "page": 561,
+  "mode": "page",
+  "file": "img/tab-9-2.jpg",
+  "w": 790,
+  "h": 1394
+ },
+ "tab-9-3": {
+  "key": "tab-9-3",
+  "page": 562,
+  "mode": "crop",
+  "file": "img/tab-9-3.jpg",
+  "w": 791,
+  "h": 748
+ },
+ "fig-9-8": {
+  "key": "fig-9-8",
+  "page": 563,
+  "mode": "crop",
+  "file": "img/fig-9-8.jpg",
+  "w": 793,
+  "h": 604
+ },
+ "fig-9-9": {
+  "key": "fig-9-9",
+  "page": 566,
+  "mode": "crop",
+  "file": "img/fig-9-9.jpg",
+  "w": 793,
+  "h": 650
+ },
+ "fig-9-10": {
+  "key": "fig-9-10",
+  "page": 567,
+  "mode": "crop",
+  "file": "img/fig-9-10.jpg",
+  "w": 791,
+  "h": 475
+ },
+ "fig-9-11": {
+  "key": "fig-9-11",
+  "page": 568,
+  "mode": "crop",
+  "file": "img/fig-9-11.jpg",
+  "w": 793,
+  "h": 415
+ },
+ "fig-9-12": {
+  "key": "fig-9-12",
+  "page": 569,
+  "mode": "crop",
+  "file": "img/fig-9-12.jpg",
+  "w": 708,
+  "h": 591
+ },
+ "fig-9-13": {
+  "key": "fig-9-13",
+  "page": 569,
+  "mode": "crop",
+  "file": "img/fig-9-13.jpg",
+  "w": 708,
+  "h": 673
+ },
+ "fig-9-14": {
+  "key": "fig-9-14",
+  "page": 570,
+  "mode": "crop",
+  "file": "img/fig-9-14.jpg",
+  "w": 794,
+  "h": 465
+ },
+ "fig-9-15": {
+  "key": "fig-9-15",
+  "page": 571,
+  "mode": "crop",
+  "file": "img/fig-9-15.jpg",
+  "w": 794,
+  "h": 825
+ },
+ "fig-9-16": {
+  "key": "fig-9-16",
+  "page": 572,
+  "mode": "crop",
+  "file": "img/fig-9-16.jpg",
+  "w": 795,
+  "h": 455
+ },
+ "fig-9-17": {
+  "key": "fig-9-17",
+  "page": 573,
+  "mode": "crop",
+  "file": "img/fig-9-17.jpg",
+  "w": 791,
+  "h": 414
+ },
+ "fig-9-18": {
+  "key": "fig-9-18",
+  "page": 573,
+  "mode": "crop",
+  "file": "img/fig-9-18.jpg",
+  "w": 791,
+  "h": 522
+ },
+ "tab-9-4": {
+  "key": "tab-9-4",
+  "page": 575,
+  "mode": "crop",
+  "file": "img/tab-9-4.jpg",
+  "w": 794,
+  "h": 578
+ },
+ "fig-9-19": {
+  "key": "fig-9-19",
+  "page": 578,
+  "mode": "crop",
+  "file": "img/fig-9-19.jpg",
+  "w": 793,
+  "h": 521
+ },
+ "fig-9-20": {
+  "key": "fig-9-20",
+  "page": 579,
+  "mode": "crop",
+  "file": "img/fig-9-20.jpg",
+  "w": 791,
+  "h": 405
+ },
+ "fig-9-21": {
+  "key": "fig-9-21",
+  "page": 581,
+  "mode": "crop",
+  "file": "img/fig-9-21.jpg",
+  "w": 794,
+  "h": 740
+ },
+ "fig-9-22": {
+  "key": "fig-9-22",
+  "page": 584,
+  "mode": "crop",
+  "file": "img/fig-9-22.jpg",
+  "w": 796,
+  "h": 525
+ },
+ "fig-9-23": {
+  "key": "fig-9-23",
+  "page": 585,
+  "mode": "crop",
+  "file": "img/fig-9-23.jpg",
+  "w": 791,
+  "h": 479
+ },
+ "fig-9-24": {
+  "key": "fig-9-24",
+  "page": 585,
+  "mode": "crop",
+  "file": "img/fig-9-24.jpg",
+  "w": 791,
+  "h": 457
+ },
+ "fig-9-25": {
+  "key": "fig-9-25",
+  "page": 587,
+  "mode": "crop",
+  "file": "img/fig-9-25.jpg",
+  "w": 793,
+  "h": 533
+ },
+ "fig-9-26": {
+  "key": "fig-9-26",
+  "page": 593,
+  "mode": "crop",
+  "file": "img/fig-9-26.jpg",
+  "w": 793,
+  "h": 538
+ },
+ "fig-9-27": {
+  "key": "fig-9-27",
+  "page": 594,
+  "mode": "crop",
+  "file": "img/fig-9-27.jpg",
+  "w": 790,
+  "h": 490
+ },
+ "fig-9-28": {
+  "key": "fig-9-28",
+  "page": 594,
+  "mode": "crop",
+  "file": "img/fig-9-28.jpg",
+  "w": 790,
+  "h": 527
+ },
+ "fig-9-29": {
+  "key": "fig-9-29",
+  "page": 596,
+  "mode": "crop",
+  "file": "img/fig-9-29.jpg",
+  "w": 790,
+  "h": 536
+ },
+ "fig-9-30": {
+  "key": "fig-9-30",
+  "page": 598,
+  "mode": "crop",
+  "file": "img/fig-9-30.jpg",
+  "w": 791,
+  "h": 595
+ },
+ "fig-9-31": {
+  "key": "fig-9-31",
+  "page": 599,
+  "mode": "crop",
+  "file": "img/fig-9-31.jpg",
+  "w": 793,
+  "h": 563
+ },
+ "fig-9-32": {
+  "key": "fig-9-32",
+  "page": 600,
+  "mode": "crop",
+  "file": "img/fig-9-32.jpg",
+  "w": 790,
+  "h": 768
+ },
+ "fig-9-33": {
+  "key": "fig-9-33",
+  "page": 601,
+  "mode": "crop",
+  "file": "img/fig-9-33.jpg",
+  "w": 792,
+  "h": 428
+ },
+ "fig-9-35": {
+  "key": "fig-9-35",
+  "page": 603,
+  "mode": "crop",
+  "file": "img/fig-9-35.jpg",
+  "w": 793,
+  "h": 616
+ },
+ "fig-9-36": {
+  "key": "fig-9-36",
+  "page": 604,
+  "mode": "crop",
+  "file": "img/fig-9-36.jpg",
+  "w": 789,
+  "h": 547
+ },
+ "fig-9-37": {
+  "key": "fig-9-37",
+  "page": 604,
+  "mode": "crop",
+  "file": "img/fig-9-37.jpg",
+  "w": 789,
+  "h": 676
+ },
+ "fig-9-38": {
+  "key": "fig-9-38",
+  "page": 605,
+  "mode": "crop",
+  "file": "img/fig-9-38.jpg",
+  "w": 791,
+  "h": 807
+ },
+ "fig-9-39": {
+  "key": "fig-9-39",
+  "page": 607,
+  "mode": "crop",
+  "file": "img/fig-9-39.jpg",
+  "w": 793,
+  "h": 401
+ },
+ "fig-9-40": {
+  "key": "fig-9-40",
+  "page": 608,
+  "mode": "crop",
+  "file": "img/fig-9-40.jpg",
+  "w": 791,
+  "h": 677
+ },
+ "fig-9-41": {
+  "key": "fig-9-41",
+  "page": 610,
+  "mode": "crop",
+  "file": "img/fig-9-41.jpg",
+  "w": 581,
+  "h": 471
+ },
+ "fig-9-42": {
+  "key": "fig-9-42",
+  "page": 610,
+  "mode": "crop",
+  "file": "img/fig-9-42.jpg",
+  "w": 581,
+  "h": 730
+ },
+ "fig-9-44": {
+  "key": "fig-9-44",
+  "page": 613,
+  "mode": "crop",
+  "file": "img/fig-9-44.jpg",
+  "w": 791,
+  "h": 520
+ },
+ "fig-9-45": {
+  "key": "fig-9-45",
+  "page": 613,
+  "mode": "crop",
+  "file": "img/fig-9-45.jpg",
+  "w": 791,
+  "h": 559
+ },
+ "tab-9-5": {
+  "key": "tab-9-5",
+  "page": 615,
+  "mode": "crop",
+  "file": "img/tab-9-5.jpg",
+  "w": 792,
+  "h": 368
+ },
+ "fig-9-46": {
+  "key": "fig-9-46",
+  "page": 618,
+  "mode": "crop",
+  "file": "img/fig-9-46.jpg",
+  "w": 792,
+  "h": 519
+ },
+ "fig-9-47": {
+  "key": "fig-9-47",
+  "page": 619,
+  "mode": "crop",
+  "file": "img/fig-9-47.jpg",
+  "w": 791,
+  "h": 625
+ },
+ "fig-9-48": {
+  "key": "fig-9-48",
+  "page": 620,
+  "mode": "crop",
+  "file": "img/fig-9-48.jpg",
+  "w": 792,
+  "h": 546
+ },
+ "fig-9-49": {
+  "key": "fig-9-49",
+  "page": 620,
+  "mode": "crop",
+  "file": "img/fig-9-49.jpg",
+  "w": 792,
+  "h": 578
+ },
+ "fig-9-51": {
+  "key": "fig-9-51",
+  "page": 622,
+  "mode": "crop",
+  "file": "img/fig-9-51.jpg",
+  "w": 792,
+  "h": 634
+ },
+ "fig-9-52": {
+  "key": "fig-9-52",
+  "page": 624,
+  "mode": "crop",
+  "file": "img/fig-9-52.jpg",
+  "w": 795,
+  "h": 620
+ },
+ "tab-9-6": {
+  "key": "tab-9-6",
+  "page": 625,
+  "mode": "page",
+  "file": "img/tab-9-6.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-9-53": {
+  "key": "fig-9-53",
+  "page": 628,
+  "mode": "crop",
+  "file": "img/fig-9-53.jpg",
+  "w": 790,
+  "h": 521
+ },
+ "fig-9-54": {
+  "key": "fig-9-54",
+  "page": 628,
+  "mode": "crop",
+  "file": "img/fig-9-54.jpg",
+  "w": 790,
+  "h": 541
+ },
+ "fig-9-55": {
+  "key": "fig-9-55",
+  "page": 629,
+  "mode": "crop",
+  "file": "img/fig-9-55.jpg",
+  "w": 793,
+  "h": 483
+ },
+ "fig-9-56": {
+  "key": "fig-9-56",
+  "page": 630,
+  "mode": "crop",
+  "file": "img/fig-9-56.jpg",
+  "w": 793,
+  "h": 419
+ },
+ "fig-9-57": {
+  "key": "fig-9-57",
+  "page": 632,
+  "mode": "crop",
+  "file": "img/fig-9-57.jpg",
+  "w": 794,
+  "h": 708
+ },
+ "fig-9-58": {
+  "key": "fig-9-58",
+  "page": 634,
+  "mode": "crop",
+  "file": "img/fig-9-58.jpg",
+  "w": 791,
+  "h": 580
+ },
+ "fig-9-59": {
+  "key": "fig-9-59",
+  "page": 635,
+  "mode": "crop",
+  "file": "img/fig-9-59.jpg",
+  "w": 792,
+  "h": 580
+ },
+ "fig-9-60": {
+  "key": "fig-9-60",
+  "page": 636,
+  "mode": "crop",
+  "file": "img/fig-9-60.jpg",
+  "w": 791,
+  "h": 604
+ },
+ "fig-9-61": {
+  "key": "fig-9-61",
+  "page": 638,
+  "mode": "crop",
+  "file": "img/fig-9-61.jpg",
+  "w": 792,
+  "h": 327
+ },
+ "fig-9-62": {
+  "key": "fig-9-62",
+  "page": 639,
+  "mode": "crop",
+  "file": "img/fig-9-62.jpg",
+  "w": 793,
+  "h": 818
+ },
+ "tab-9-7": {
+  "key": "tab-9-7",
+  "page": 646,
+  "mode": "crop",
+  "file": "img/tab-9-7.jpg",
+  "w": 785,
+  "h": 200
+ },
+ "fig-9-63": {
+  "key": "fig-9-63",
+  "page": 646,
+  "mode": "crop",
+  "file": "img/fig-9-63.jpg",
+  "w": 785,
+  "h": 465
+ },
+ "tab-9-8": {
+  "key": "tab-9-8",
+  "page": 649,
+  "mode": "page",
+  "file": "img/tab-9-8.jpg",
+  "w": 791,
+  "h": 1394
+ },
+ "tab-9-9": {
+  "key": "tab-9-9",
+  "page": 651,
+  "mode": "crop",
+  "file": "img/tab-9-9.jpg",
+  "w": 792,
+  "h": 676
+ },
+ "tab-9-10": {
+  "key": "tab-9-10",
+  "page": 652,
+  "mode": "crop",
+  "file": "img/tab-9-10.jpg",
+  "w": 791,
+  "h": 666
+ },
+ "fig-9-64": {
+  "key": "fig-9-64",
+  "page": 653,
+  "mode": "page",
+  "file": "img/fig-9-64.jpg",
+  "w": 779,
+  "h": 1394
+ },
+ "fig-10-1": {
+  "key": "fig-10-1",
+  "page": 665,
+  "mode": "crop",
+  "file": "img/fig-10-1.jpg",
+  "w": 791,
+  "h": 534
+ },
+ "fig-10-2": {
+  "key": "fig-10-2",
+  "page": 668,
+  "mode": "crop",
+  "file": "img/fig-10-2.jpg",
+  "w": 792,
+  "h": 526
+ },
+ "tab-10-1": {
+  "key": "tab-10-1",
+  "page": 669,
+  "mode": "crop",
+  "file": "img/tab-10-1.jpg",
+  "w": 793,
+  "h": 229
+ },
+ "tab-10-2": {
+  "key": "tab-10-2",
+  "page": 671,
+  "mode": "page",
+  "file": "img/tab-10-2.jpg",
+  "w": 787,
+  "h": 1394
+ },
+ "tab-10-3": {
+  "key": "tab-10-3",
+  "page": 674,
+  "mode": "crop",
+  "file": "img/tab-10-3.jpg",
+  "w": 784,
+  "h": 1082
+ },
+ "fig-10-3": {
+  "key": "fig-10-3",
+  "page": 678,
+  "mode": "crop",
+  "file": "img/fig-10-3.jpg",
+  "w": 792,
+  "h": 554
+ },
+ "fig-10-4": {
+  "key": "fig-10-4",
+  "page": 679,
+  "mode": "crop",
+  "file": "img/fig-10-4.jpg",
+  "w": 785,
+  "h": 384
+ },
+ "fig-10-5": {
+  "key": "fig-10-5",
+  "page": 679,
+  "mode": "crop",
+  "file": "img/fig-10-5.jpg",
+  "w": 785,
+  "h": 477
+ },
+ "tab-10-5": {
+  "key": "tab-10-5",
+  "page": 679,
+  "mode": "crop",
+  "file": "img/tab-10-5.jpg",
+  "w": 785,
+  "h": 301
+ },
+ "fig-10-6": {
+  "key": "fig-10-6",
+  "page": 681,
+  "mode": "crop",
+  "file": "img/fig-10-6.jpg",
+  "w": 794,
+  "h": 548
+ },
+ "tab-10-6": {
+  "key": "tab-10-6",
+  "page": 682,
+  "mode": "crop",
+  "file": "img/tab-10-6.jpg",
+  "w": 791,
+  "h": 276
+ },
+ "fig-10-7": {
+  "key": "fig-10-7",
+  "page": 684,
+  "mode": "crop",
+  "file": "img/fig-10-7.jpg",
+  "w": 780,
+  "h": 542
+ },
+ "fig-10-8": {
+  "key": "fig-10-8",
+  "page": 684,
+  "mode": "page",
+  "file": "img/fig-10-8.jpg",
+  "w": 780,
+  "h": 1394
+ },
+ "tab-10-8": {
+  "key": "tab-10-8",
+  "page": 685,
+  "mode": "crop",
+  "file": "img/tab-10-8.jpg",
+  "w": 794,
+  "h": 786
+ },
+ "tab-10-9": {
+  "key": "tab-10-9",
+  "page": 686,
+  "mode": "crop",
+  "file": "img/tab-10-9.jpg",
+  "w": 793,
+  "h": 512
+ },
+ "tab-10-10": {
+  "key": "tab-10-10",
+  "page": 686,
+  "mode": "crop",
+  "file": "img/tab-10-10.jpg",
+  "w": 793,
+  "h": 491
+ },
+ "fig-10-9": {
+  "key": "fig-10-9",
+  "page": 687,
+  "mode": "crop",
+  "file": "img/fig-10-9.jpg",
+  "w": 794,
+  "h": 536
+ },
+ "tab-10-11": {
+  "key": "tab-10-11",
+  "page": 687,
+  "mode": "crop",
+  "file": "img/tab-10-11.jpg",
+  "w": 794,
+  "h": 515
+ },
+ "fig-10-10": {
+  "key": "fig-10-10",
+  "page": 688,
+  "mode": "crop",
+  "file": "img/fig-10-10.jpg",
+  "w": 793,
+  "h": 535
+ },
+ "tab-10-12": {
+  "key": "tab-10-12",
+  "page": 688,
+  "mode": "crop",
+  "file": "img/tab-10-12.jpg",
+  "w": 793,
+  "h": 542
+ },
+ "fig-10-11": {
+  "key": "fig-10-11",
+  "page": 689,
+  "mode": "crop",
+  "file": "img/fig-10-11.jpg",
+  "w": 795,
+  "h": 424
+ },
+ "tab-10-13": {
+  "key": "tab-10-13",
+  "page": 690,
+  "mode": "page",
+  "file": "img/tab-10-13.jpg",
+  "w": 793,
+  "h": 1394
+ },
+ "fig-10-12": {
+  "key": "fig-10-12",
+  "page": 691,
+  "mode": "crop",
+  "file": "img/fig-10-12.jpg",
+  "w": 792,
+  "h": 498
+ },
+ "tab-10-14": {
+  "key": "tab-10-14",
+  "page": 691,
+  "mode": "crop",
+  "file": "img/tab-10-14.jpg",
+  "w": 792,
+  "h": 581
+ },
+ "fig-10-13": {
+  "key": "fig-10-13",
+  "page": 692,
+  "mode": "crop",
+  "file": "img/fig-10-13.jpg",
+  "w": 790,
+  "h": 373
+ },
+ "fig-10-14": {
+  "key": "fig-10-14",
+  "page": 692,
+  "mode": "crop",
+  "file": "img/fig-10-14.jpg",
+  "w": 790,
+  "h": 368
+ },
+ "fig-10-15": {
+  "key": "fig-10-15",
+  "page": 692,
+  "mode": "crop",
+  "file": "img/fig-10-15.jpg",
+  "w": 790,
+  "h": 498
+ },
+ "fig-10-16": {
+  "key": "fig-10-16",
+  "page": 693,
+  "mode": "crop",
+  "file": "img/fig-10-16.jpg",
+  "w": 790,
+  "h": 467
+ },
+ "fig-10-17": {
+  "key": "fig-10-17",
+  "page": 693,
+  "mode": "crop",
+  "file": "img/fig-10-17.jpg",
+  "w": 790,
+  "h": 484
+ },
+ "fig-10-18": {
+  "key": "fig-10-18",
+  "page": 694,
+  "mode": "crop",
+  "file": "img/fig-10-18.jpg",
+  "w": 792,
+  "h": 474
+ },
+ "tab-10-15": {
+  "key": "tab-10-15",
+  "page": 695,
+  "mode": "crop",
+  "file": "img/tab-10-15.jpg",
+  "w": 790,
+  "h": 267
+ },
+ "fig-10-19": {
+  "key": "fig-10-19",
+  "page": 695,
+  "mode": "crop",
+  "file": "img/fig-10-19.jpg",
+  "w": 790,
+  "h": 688
+ },
+ "fig-10-20": {
+  "key": "fig-10-20",
+  "page": 696,
+  "mode": "crop",
+  "file": "img/fig-10-20.jpg",
+  "w": 795,
+  "h": 421
+ },
+ "fig-10-21": {
+  "key": "fig-10-21",
+  "page": 697,
+  "mode": "crop",
+  "file": "img/fig-10-21.jpg",
+  "w": 791,
+  "h": 304
+ },
+ "fig-10-22": {
+  "key": "fig-10-22",
+  "page": 698,
+  "mode": "crop",
+  "file": "img/fig-10-22.jpg",
+  "w": 777,
+  "h": 392
+ },
+ "fig-10-23": {
+  "key": "fig-10-23",
+  "page": 698,
+  "mode": "crop",
+  "file": "img/fig-10-23.jpg",
+  "w": 777,
+  "h": 388
+ },
+ "fig-10-24": {
+  "key": "fig-10-24",
+  "page": 699,
+  "mode": "crop",
+  "file": "img/fig-10-24.jpg",
+  "w": 788,
+  "h": 413
+ },
+ "fig-10-25": {
+  "key": "fig-10-25",
+  "page": 699,
+  "mode": "crop",
+  "file": "img/fig-10-25.jpg",
+  "w": 788,
+  "h": 345
+ },
+ "tab-10-16": {
+  "key": "tab-10-16",
+  "page": 699,
+  "mode": "crop",
+  "file": "img/tab-10-16.jpg",
+  "w": 788,
+  "h": 398
+ },
+ "fig-10-26": {
+  "key": "fig-10-26",
+  "page": 700,
+  "mode": "crop",
+  "file": "img/fig-10-26.jpg",
+  "w": 797,
+  "h": 391
+ },
+ "fig-10-27": {
+  "key": "fig-10-27",
+  "page": 701,
+  "mode": "crop",
+  "file": "img/fig-10-27.jpg",
+  "w": 791,
+  "h": 360
+ },
+ "fig-10-28": {
+  "key": "fig-10-28",
+  "page": 703,
+  "mode": "crop",
+  "file": "img/fig-10-28.jpg",
+  "w": 791,
+  "h": 611
+ },
+ "fig-10-29": {
+  "key": "fig-10-29",
+  "page": 704,
+  "mode": "crop",
+  "file": "img/fig-10-29.jpg",
+  "w": 791,
+  "h": 483
+ },
+ "fig-10-30": {
+  "key": "fig-10-30",
+  "page": 705,
+  "mode": "crop",
+  "file": "img/fig-10-30.jpg",
+  "w": 793,
+  "h": 726
+ },
+ "fig-10-31": {
+  "key": "fig-10-31",
+  "page": 706,
+  "mode": "crop",
+  "file": "img/fig-10-31.jpg",
+  "w": 790,
+  "h": 720
+ },
+ "fig-10-32": {
+  "key": "fig-10-32",
+  "page": 708,
+  "mode": "page",
+  "file": "img/fig-10-32.jpg",
+  "w": 792,
+  "h": 1394
+ },
+ "fig-10-33": {
+  "key": "fig-10-33",
+  "page": 708,
+  "mode": "crop",
+  "file": "img/fig-10-33.jpg",
+  "w": 792,
+  "h": 422
+ },
+ "fig-10-34": {
+  "key": "fig-10-34",
+  "page": 709,
+  "mode": "crop",
+  "file": "img/fig-10-34.jpg",
+  "w": 795,
+  "h": 452
+ },
+ "fig-10-35": {
+  "key": "fig-10-35",
+  "page": 709,
+  "mode": "crop",
+  "file": "img/fig-10-35.jpg",
+  "w": 795,
+  "h": 451
+ },
+ "fig-10-36": {
+  "key": "fig-10-36",
+  "page": 712,
+  "mode": "crop",
+  "file": "img/fig-10-36.jpg",
+  "w": 794,
+  "h": 503
+ },
+ "fig-10-37": {
+  "key": "fig-10-37",
+  "page": 713,
+  "mode": "crop",
+  "file": "img/fig-10-37.jpg",
+  "w": 793,
+  "h": 538
+ },
+ "fig-10-38": {
+  "key": "fig-10-38",
+  "page": 714,
+  "mode": "crop",
+  "file": "img/fig-10-38.jpg",
+  "w": 789,
+  "h": 569
+ },
+ "fig-10-39": {
+  "key": "fig-10-39",
+  "page": 714,
+  "mode": "crop",
+  "file": "img/fig-10-39.jpg",
+  "w": 789,
+  "h": 581
+ },
+ "fig-10-40": {
+  "key": "fig-10-40",
+  "page": 715,
+  "mode": "crop",
+  "file": "img/fig-10-40.jpg",
+  "w": 791,
+  "h": 533
+ },
+ "tab-10-17": {
+  "key": "tab-10-17",
+  "page": 715,
+  "mode": "crop",
+  "file": "img/tab-10-17.jpg",
+  "w": 791,
+  "h": 370
+ },
+ "tab-10-18": {
+  "key": "tab-10-18",
+  "page": 716,
+  "mode": "crop",
+  "file": "img/tab-10-18.jpg",
+  "w": 789,
+  "h": 336
+ },
+ "fig-10-41": {
+  "key": "fig-10-41",
+  "page": 716,
+  "mode": "crop",
+  "file": "img/fig-10-41.jpg",
+  "w": 789,
+  "h": 507
+ },
+ "fig-10-42": {
+  "key": "fig-10-42",
+  "page": 718,
+  "mode": "crop",
+  "file": "img/fig-10-42.jpg",
+  "w": 791,
+  "h": 545
+ },
+ "fig-10-43": {
+  "key": "fig-10-43",
+  "page": 719,
+  "mode": "crop",
+  "file": "img/fig-10-43.jpg",
+  "w": 792,
+  "h": 967
+ },
+ "fig-10-44": {
+  "key": "fig-10-44",
+  "page": 720,
+  "mode": "crop",
+  "file": "img/fig-10-44.jpg",
+  "w": 795,
+  "h": 405
+ },
+ "fig-10-45": {
+  "key": "fig-10-45",
+  "page": 721,
+  "mode": "crop",
+  "file": "img/fig-10-45.jpg",
+  "w": 791,
+  "h": 480
+ },
+ "fig-10-46": {
+  "key": "fig-10-46",
+  "page": 722,
+  "mode": "crop",
+  "file": "img/fig-10-46.jpg",
+  "w": 792,
+  "h": 445
+ },
+ "fig-10-47": {
+  "key": "fig-10-47",
+  "page": 722,
+  "mode": "crop",
+  "file": "img/fig-10-47.jpg",
+  "w": 792,
+  "h": 520
+ },
+ "fig-10-48": {
+  "key": "fig-10-48",
+  "page": 723,
+  "mode": "crop",
+  "file": "img/fig-10-48.jpg",
+  "w": 791,
+  "h": 638
+ },
+ "fig-10-49": {
+  "key": "fig-10-49",
+  "page": 726,
+  "mode": "page",
+  "file": "img/fig-10-49.jpg",
+  "w": 795,
+  "h": 1394
+ },
+ "fig-10-50": {
+  "key": "fig-10-50",
+  "page": 726,
+  "mode": "crop",
+  "file": "img/fig-10-50.jpg",
+  "w": 795,
+  "h": 516
+ },
+ "fig-10-51": {
+  "key": "fig-10-51",
+  "page": 729,
+  "mode": "crop",
+  "file": "img/fig-10-51.jpg",
+  "w": 790,
+  "h": 366
+ },
+ "fig-10-52": {
+  "key": "fig-10-52",
+  "page": 729,
+  "mode": "crop",
+  "file": "img/fig-10-52.jpg",
+  "w": 790,
+  "h": 408
+ },
+ "fig-10-53": {
+  "key": "fig-10-53",
+  "page": 732,
+  "mode": "crop",
+  "file": "img/fig-10-53.jpg",
+  "w": 800,
+  "h": 739
+ },
+ "fig-10-54": {
+  "key": "fig-10-54",
+  "page": 733,
+  "mode": "crop",
+  "file": "img/fig-10-54.jpg",
+  "w": 790,
+  "h": 476
+ },
+ "fig-10-55": {
+  "key": "fig-10-55",
+  "page": 735,
+  "mode": "crop",
+  "file": "img/fig-10-55.jpg",
+  "w": 791,
+  "h": 632
+ },
+ "fig-10-56": {
+  "key": "fig-10-56",
+  "page": 736,
+  "mode": "crop",
+  "file": "img/fig-10-56.jpg",
+  "w": 792,
+  "h": 586
+ },
+ "fig-10-57": {
+  "key": "fig-10-57",
+  "page": 737,
+  "mode": "crop",
+  "file": "img/fig-10-57.jpg",
+  "w": 792,
+  "h": 871
+ },
+ "fig-10-58": {
+  "key": "fig-10-58",
+  "page": 738,
+  "mode": "crop",
+  "file": "img/fig-10-58.jpg",
+  "w": 791,
+  "h": 488
+ },
+ "fig-10-59": {
+  "key": "fig-10-59",
+  "page": 738,
+  "mode": "crop",
+  "file": "img/fig-10-59.jpg",
+  "w": 791,
+  "h": 589
+ },
+ "fig-10-60": {
+  "key": "fig-10-60",
+  "page": 740,
+  "mode": "crop",
+  "file": "img/fig-10-60.jpg",
+  "w": 794,
+  "h": 589
+ },
+ "fig-10-61": {
+  "key": "fig-10-61",
+  "page": 742,
+  "mode": "crop",
+  "file": "img/fig-10-61.jpg",
+  "w": 792,
+  "h": 628
+ },
+ "fig-10-62": {
+  "key": "fig-10-62",
+  "page": 743,
+  "mode": "crop",
+  "file": "img/fig-10-62.jpg",
+  "w": 794,
+  "h": 638
+ }
+}
